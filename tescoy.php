@@ -1,3 +1,1 @@
-<?php
-gila kamu!
-kamu yg gila
+muncul gk
